@@ -1,0 +1,470 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 47;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8C65A6881B9F1C5F00249769 /* SegundoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C65A6871B9F1C5F00249769 /* SegundoViewController.swift */; };
+		8CECBB0A1B95FB8B002035F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CECBB091B95FB8B002035F4 /* AppDelegate.swift */; };
+		8CECBB0C1B95FB8B002035F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CECBB0B1B95FB8B002035F4 /* ViewController.swift */; };
+		8CECBB0F1B95FB8B002035F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CECBB0D1B95FB8B002035F4 /* Main.storyboard */; };
+		8CECBB111B95FB8B002035F4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CECBB101B95FB8B002035F4 /* Images.xcassets */; };
+		8CECBB141B95FB8B002035F4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CECBB121B95FB8B002035F4 /* LaunchScreen.xib */; };
+		8CECBB201B95FB8B002035F4 /* Productos_FrescosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CECBB1F1B95FB8B002035F4 /* Productos_FrescosTests.swift */; };
+		8CECBB2E1B95FE1F002035F4 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CECBB2D1B95FE1F002035F4 /* User.swift */; };
+		9117BA591BCAFFC800F9196D /* testing2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9117BA581BCAFFC800F9196D /* testing2.swift */; settings = {ASSET_TAGS = (); }; };
+		91FBF4C11BCC04BA00759D63 /* testing3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91FBF4C01BCC04BA00759D63 /* testing3.swift */; settings = {ASSET_TAGS = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8CECBB1A1B95FB8B002035F4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8CECBAFC1B95FB8B002035F4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8CECBB031B95FB8B002035F4;
+			remoteInfo = "Productos Frescos";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8C65A6871B9F1C5F00249769 /* SegundoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SegundoViewController.swift; sourceTree = "<group>"; };
+		8CECBB041B95FB8B002035F4 /* Productos Frescos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Productos Frescos.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CECBB081B95FB8B002035F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CECBB091B95FB8B002035F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8CECBB0B1B95FB8B002035F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8CECBB0E1B95FB8B002035F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8CECBB101B95FB8B002035F4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		8CECBB131B95FB8B002035F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		8CECBB191B95FB8B002035F4 /* Productos FrescosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Productos FrescosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CECBB1E1B95FB8B002035F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CECBB1F1B95FB8B002035F4 /* Productos_FrescosTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Productos_FrescosTests.swift; sourceTree = "<group>"; };
+		8CECBB2D1B95FE1F002035F4 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		9117BA581BCAFFC800F9196D /* testing2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testing2.swift; sourceTree = "<group>"; };
+		91FBF4C01BCC04BA00759D63 /* testing3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testing3.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8CECBB011B95FB8B002035F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CECBB161B95FB8B002035F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8CECBAFB1B95FB8B002035F4 = {
+			isa = PBXGroup;
+			children = (
+				8CECBB061B95FB8B002035F4 /* Productos Frescos */,
+				8CECBB1C1B95FB8B002035F4 /* Productos FrescosTests */,
+				8CECBB051B95FB8B002035F4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8CECBB051B95FB8B002035F4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8CECBB041B95FB8B002035F4 /* Productos Frescos.app */,
+				8CECBB191B95FB8B002035F4 /* Productos FrescosTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8CECBB061B95FB8B002035F4 /* Productos Frescos */ = {
+			isa = PBXGroup;
+			children = (
+				8CECBB291B95FC1A002035F4 /* Controller */,
+				8CECBB2A1B95FC2A002035F4 /* Model */,
+				8CECBB091B95FB8B002035F4 /* AppDelegate.swift */,
+				8CECBB0D1B95FB8B002035F4 /* Main.storyboard */,
+				8CECBB101B95FB8B002035F4 /* Images.xcassets */,
+				8CECBB121B95FB8B002035F4 /* LaunchScreen.xib */,
+				8CECBB071B95FB8B002035F4 /* Supporting Files */,
+			);
+			path = "Productos Frescos";
+			sourceTree = "<group>";
+		};
+		8CECBB071B95FB8B002035F4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8CECBB081B95FB8B002035F4 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8CECBB1C1B95FB8B002035F4 /* Productos FrescosTests */ = {
+			isa = PBXGroup;
+			children = (
+				8CECBB1F1B95FB8B002035F4 /* Productos_FrescosTests.swift */,
+				9117BA581BCAFFC800F9196D /* testing2.swift */,
+				91FBF4C01BCC04BA00759D63 /* testing3.swift */,
+				8CECBB1D1B95FB8B002035F4 /* Supporting Files */,
+			);
+			path = "Productos FrescosTests";
+			sourceTree = "<group>";
+		};
+		8CECBB1D1B95FB8B002035F4 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8CECBB1E1B95FB8B002035F4 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8CECBB291B95FC1A002035F4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				8CECBB0B1B95FB8B002035F4 /* ViewController.swift */,
+				8C65A6871B9F1C5F00249769 /* SegundoViewController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		8CECBB2A1B95FC2A002035F4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8CECBB2D1B95FE1F002035F4 /* User.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8CECBB031B95FB8B002035F4 /* Productos Frescos */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8CECBB231B95FB8B002035F4 /* Build configuration list for PBXNativeTarget "Productos Frescos" */;
+			buildPhases = (
+				8CECBB001B95FB8B002035F4 /* Sources */,
+				8CECBB011B95FB8B002035F4 /* Frameworks */,
+				8CECBB021B95FB8B002035F4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Productos Frescos";
+			productName = "Productos Frescos";
+			productReference = 8CECBB041B95FB8B002035F4 /* Productos Frescos.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8CECBB181B95FB8B002035F4 /* Productos FrescosTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8CECBB261B95FB8B002035F4 /* Build configuration list for PBXNativeTarget "Productos FrescosTests" */;
+			buildPhases = (
+				8CECBB151B95FB8B002035F4 /* Sources */,
+				8CECBB161B95FB8B002035F4 /* Frameworks */,
+				8CECBB171B95FB8B002035F4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8CECBB1B1B95FB8B002035F4 /* PBXTargetDependency */,
+			);
+			name = "Productos FrescosTests";
+			productName = "Productos FrescosTests";
+			productReference = 8CECBB191B95FB8B002035F4 /* Productos FrescosTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8CECBAFC1B95FB8B002035F4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = Inacap;
+				TargetAttributes = {
+					8CECBB031B95FB8B002035F4 = {
+						CreatedOnToolsVersion = 6.4;
+					};
+					8CECBB181B95FB8B002035F4 = {
+						CreatedOnToolsVersion = 6.4;
+						TestTargetID = 8CECBB031B95FB8B002035F4;
+					};
+				};
+			};
+			buildConfigurationList = 8CECBAFF1B95FB8B002035F4 /* Build configuration list for PBXProject "Productos Frescos" */;
+			compatibilityVersion = "Xcode 6.3";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8CECBAFB1B95FB8B002035F4;
+			productRefGroup = 8CECBB051B95FB8B002035F4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8CECBB031B95FB8B002035F4 /* Productos Frescos */,
+				8CECBB181B95FB8B002035F4 /* Productos FrescosTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8CECBB021B95FB8B002035F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CECBB0F1B95FB8B002035F4 /* Main.storyboard in Resources */,
+				8CECBB141B95FB8B002035F4 /* LaunchScreen.xib in Resources */,
+				8CECBB111B95FB8B002035F4 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CECBB171B95FB8B002035F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8CECBB001B95FB8B002035F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C65A6881B9F1C5F00249769 /* SegundoViewController.swift in Sources */,
+				8CECBB0C1B95FB8B002035F4 /* ViewController.swift in Sources */,
+				8CECBB0A1B95FB8B002035F4 /* AppDelegate.swift in Sources */,
+				8CECBB2E1B95FE1F002035F4 /* User.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CECBB151B95FB8B002035F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CECBB201B95FB8B002035F4 /* Productos_FrescosTests.swift in Sources */,
+				91FBF4C11BCC04BA00759D63 /* testing3.swift in Sources */,
+				9117BA591BCAFFC800F9196D /* testing2.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8CECBB1B1B95FB8B002035F4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8CECBB031B95FB8B002035F4 /* Productos Frescos */;
+			targetProxy = 8CECBB1A1B95FB8B002035F4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8CECBB0D1B95FB8B002035F4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8CECBB0E1B95FB8B002035F4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8CECBB121B95FB8B002035F4 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8CECBB131B95FB8B002035F4 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8CECBB211B95FB8B002035F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8CECBB221B95FB8B002035F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8CECBB241B95FB8B002035F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Productos Frescos/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "inacap.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		8CECBB251B95FB8B002035F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Productos Frescos/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "inacap.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		8CECBB271B95FB8B002035F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Productos FrescosTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "inacap.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Productos Frescos.app/Productos Frescos";
+			};
+			name = Debug;
+		};
+		8CECBB281B95FB8B002035F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Productos FrescosTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "inacap.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Productos Frescos.app/Productos Frescos";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8CECBAFF1B95FB8B002035F4 /* Build configuration list for PBXProject "Productos Frescos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CECBB211B95FB8B002035F4 /* Debug */,
+				8CECBB221B95FB8B002035F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8CECBB231B95FB8B002035F4 /* Build configuration list for PBXNativeTarget "Productos Frescos" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CECBB241B95FB8B002035F4 /* Debug */,
+				8CECBB251B95FB8B002035F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8CECBB261B95FB8B002035F4 /* Build configuration list for PBXNativeTarget "Productos FrescosTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CECBB271B95FB8B002035F4 /* Debug */,
+				8CECBB281B95FB8B002035F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8CECBAFC1B95FB8B002035F4 /* Project object */;
+}

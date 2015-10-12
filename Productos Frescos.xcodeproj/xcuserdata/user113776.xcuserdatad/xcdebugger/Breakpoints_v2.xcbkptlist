@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Productos FrescosTests/Productos_FrescosTests.swift"
+            timestampString = "466287991.831436"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "testPerformanceExample()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Productos FrescosTests/Productos_FrescosTests.swift"
+            timestampString = "466288186.745533"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "Productos_FrescosTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Productos_FrescosTests.Productos_FrescosTests.users.getter : Swift.Array&lt;Productos_Frescos.User&gt;"
+                  moduleName = "Productos FrescosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user113776/Desktop/Tarea.U3.Guillermo.Castillo./tarea/Productos%20FrescosTests/Productos_FrescosTests.swift"
+                  timestampString = "466288211.086159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Productos_FrescosTests.Productos_FrescosTests.users.setter : Swift.Array&lt;Productos_Frescos.User&gt;"
+                  moduleName = "Productos FrescosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user113776/Desktop/Tarea.U3.Guillermo.Castillo./tarea/Productos%20FrescosTests/Productos_FrescosTests.swift"
+                  timestampString = "466288211.089656"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Productos_FrescosTests.Productos_FrescosTests.users.materializeForSet : Swift.Array&lt;Productos_Frescos.User&gt;"
+                  moduleName = "Productos FrescosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user113776/Desktop/Tarea.U3.Guillermo.Castillo./tarea/Productos%20FrescosTests/Productos_FrescosTests.swift"
+                  timestampString = "466288211.090079"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Productos_FrescosTests.Productos_FrescosTests.init (Productos_FrescosTests.Productos_FrescosTests.Type)(invocation : Swift.Optional&lt;ObjectiveC.NSInvocation&gt;) -&gt; Productos_FrescosTests.Productos_FrescosTests"
+                  moduleName = "Productos FrescosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user113776/Desktop/Tarea.U3.Guillermo.Castillo./tarea/Productos%20FrescosTests/Productos_FrescosTests.swift"
+                  timestampString = "466288211.090392"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Productos_FrescosTests.Productos_FrescosTests.init (Productos_FrescosTests.Productos_FrescosTests.Type)(selector : ObjectiveC.Selector) -&gt; Productos_FrescosTests.Productos_FrescosTests"
+                  moduleName = "Productos FrescosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user113776/Desktop/Tarea.U3.Guillermo.Castillo./tarea/Productos%20FrescosTests/Productos_FrescosTests.swift"
+                  timestampString = "466288211.09067"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Productos_FrescosTests.Productos_FrescosTests.init (Productos_FrescosTests.Productos_FrescosTests.Type)() -&gt; Productos_FrescosTests.Productos_FrescosTests"
+                  moduleName = "Productos FrescosTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user113776/Desktop/Tarea.U3.Guillermo.Castillo./tarea/Productos%20FrescosTests/Productos_FrescosTests.swift"
+                  timestampString = "466288211.09088"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Productos FrescosTests/testing2.swift"
+            timestampString = "466290322.076272"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testExample()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Productos Frescos/User.swift"
+            timestampString = "466355114.187336"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "validateUser(_:usuario:clave:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
